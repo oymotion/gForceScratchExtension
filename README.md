@@ -1,9 +1,6 @@
 # gForce Scratch Extension
 
-## License
-Please refer to LICNESE.md
-
-## Brief
+## Overview
 The gForce Scratch Extension is for using the gForce Embedded Suite with the
 `mBlock` Scratch programming IDE.
 
@@ -35,3 +32,6 @@ The gForce Scratch Extension is for using the gForce Embedded Suite with the
 
     * You will be able to use the gForce to control the `mBot` robot following
       your programming logic. You can unplug the USB cable at the time.
+
+## License
+Please refer to [LICENSE.md](LICENSE.md)
